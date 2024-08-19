@@ -52,6 +52,37 @@
         1. Ensamblador: Utilizado en el desarrollo de Sistemas Operativos, controladores de dispositivos y en aplicaciones que requieren un control preciso sobre el hardware.
         2. C y C++: Ampliamente utilizados en el desarrollo de sistemas operativos, sistemas embebidos, aplicaciones de tiempo real y en aplicaciones que requieren alta eficiencia y control directo sobre el hardware.
 
+6. **Frameeworks:** Los Frameworks son conjuntos de herramientas, bibliotecas y estándares que proporcionan una estructura para el desarrollo de aplicaciones. Estos, permiten a los desarrolladores crear aplicaciones más rápidamente, al proporcionar soluciones predefinidas para tareas comunes, como la gestión de bases de datos, la autenticación de usuarios y la generación de interfaces de usuario.
+
+    1. Angular: (JavaScript/TypeScrip): Framework de Google para construir aplicaciones web SPA (Sigle Page Application) o aplicaciones de una sola página, con JavaScript o TypeScript.
+
+    2. Next + React (JavaScript): Biblioteca de FaceBook para crear interfaces de usuario interactivas y dinámicas con JavaScript.
+
+    3. Vue.js (JavaScript): Framework progresivo para crear interfaces de usuario interactivas con JavaScript, conocido por su simplicidad y flexibilidad.
+
+    4. Django(Python): Framework de alto nivel para el desarrollo web con Python, conocido por su enfoque "baterías incluidas" y su rapidez de desarrollo.
+
+    5. Ruby on Rails(Ruby): Framework web de código abierto escrito en Ruby, famoso por su enfoque de "Convención sobre configuración" y su rápidez de desarrollo.
+
+    6. Sprit Framework(Java): Framework de aplicación empresarial para el desarrollo de aplicaciones Java, conocido por su modularidad y amplia gama de funcionalidades.
+
+7. **Editores de texto:** Herramientas básicas para escribir y editar código fuente.
+
+    1. Sublime text: 
+    2. Atom:
+    3. Visual Studio Code: Desarrollado por Microsoft, VSC es uno de los editores de texto más populares debido a su robusta funcionalidad, amplia gama de estensiones y soporte para múltiples lenguajes de programación.
+
+8. **IDE:** Aplicación que proporciona un conjunto completo de herramientas para desarrollo de software en un solo paquete integrado. Estas herramientas incluyen editores de texto, compiladores, depuradores, administradores de proyectos y más.
+
+    1. Eclipse:
+    2. NetBeans:
+    3. IntelliJ IDEA: Es conocido por su exelente soporte para el desarrollo de aplicaciones Java, así como su integración con tecnologías como Spring Framework y Android.
+
+9. **Escritorios remotos:** 
+
+
+
+
 
 
 
