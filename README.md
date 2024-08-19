@@ -6,19 +6,19 @@
 
 **Paradigmas de programación**| **Son enfoques o estilos distintos para resolver problemas mediante la programación.**  
 
- >[!Imperativo]
+ >[!NOTE]
    >
-   >Este paradigma se centra en la descripción de los pasos o procedimientos necesarios para alcanzar un resultado.
+   >Imperativo: Este paradigma se centra en la descripción de los pasos o procedimientos necesarios para alcanzar un resultado.
 
 
- >[!Declarativo]
+ >[!NOTE]
    >
-   >Este paradigma se centra que se quiere lograr en lugar de como lograrlo.
+   >Declarativo: Este paradigma se centra que se quiere lograr en lugar de como lograrlo.
 
 
- >[!POO]
+ >[!NOTE]
    >
-   >El paradigna orientado a objetos se basa en la representación de entidades como objetos que tienen propiedades(atributos) y comportamientos(métodos). Los programas orientados a objetos están estructurados en torno a la interacción entre estos objetos, lo que facilita la reutilización de código y la modularidad.
+   >Orientado a objetos: Se basa en la representación de entidades como objetos que tienen propiedades(atributos) y comportamientos(métodos). Los programas orientados a objetos están estructurados en torno a la interacción entre estos objetos, lo que facilita la reutilización de código y la modularidad.
 
 
 
