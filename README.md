@@ -7,7 +7,10 @@ s
 |-------------------------|-----------------------------------------------------------------------|
 | Lenguajes de programación| Son conjuntos de intrucciones y reglas utilizados para escribir programas informáticos.| 
 | Paradigmas de programación| Son enfoques o estilos distintos para resolver problemas mediante la programación.
-                              * Imperativo:   
+|                           |<td rowspan="4">Imperativo:</td>                                                       |
+|                           |                                                                                       
+|                           |                                                                                       
+|                           |                                                                                       
 |                           |                                                                                       |
 
 
