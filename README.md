@@ -14,6 +14,16 @@
 
     4. Funcional: En este paradigna, los programas se construyen mediante la composicion de funciones puras.
 
+3. **Deferencia de lenguajes de alto y bajo nivel:** 
+
+    1. Alto nivel: Mas alejados del lenguaje de máquina y más cercanos al lenguaje humano.
+
+    2. Bajo nivel: Están mas cercanos al lenguaje de máquina y son menos comprensibles para los humanos.
+
+    
+
+
+
 
 
 
