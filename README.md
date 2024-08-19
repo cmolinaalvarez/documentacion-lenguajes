@@ -31,6 +31,27 @@
         1. Mayor control sobre el hardware: Permiten acceder y manipular directamente los recursos del sistema, lo que los hace ideales para desarrollar software de bajo nivel, como sistemas operativos o controladores de dispositivos.
         2. Mayor eficiencia en términos de rendimiento: Debido a su cercanía con el hardware, los programas escritos en lenguajes de bajo nivel pueden ser más eficientes en términos de uso de recursos.
 
+5. **Desventajas de lenguajes de alto y bajo nivel:** 
+
+    1. Alto nivel:
+        1. Menor control sobre el hardware. 
+        2. Menor eficiencia en términos de rendimiento.
+ 
+    2. Bajo nivel:
+        1. Menor portabilidad.
+        2. Mayor complejidad y propensión de errores: Escribir programas en lenguajes de bajo nivel puede ser más dificil y propenso a errores debido a su sintaxis más compleja y la necesidad de gestionar directamente los recursos del sistema.
+
+5. **Ejemplos de lenguajes de alto y bajo nivel:** 
+
+    1. Alto nivel:
+        1. Python:
+        2. Java:
+        3. C#:
+
+    2. Bajo nivel:
+        1. Ensamblador: Utilizado en el desarrollo de Sistemas Operativos, controladores de dispositivos y en aplicaciones que requieren un control preciso sobre el hardware.
+        2. C y C++: Ampliamente utilizados en el desarrollo de sistemas operativos, sistemas embebidos, aplicaciones de tiempo real y en aplicaciones que requieren alta eficiencia y control directo sobre el hardware.
+
 
 
 
