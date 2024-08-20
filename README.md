@@ -41,7 +41,7 @@
         1. Menor portabilidad.
         2. Mayor complejidad y propensión de errores: Escribir programas en lenguajes de bajo nivel puede ser más dificil y propenso a errores debido a su sintaxis más compleja y la necesidad de gestionar directamente los recursos del sistema.
 
-5. **Ejemplos de lenguajes de alto y bajo nivel:** 
+6. **Ejemplos de lenguajes de alto y bajo nivel:** 
 
     1. Alto nivel:
         1. Python:
@@ -52,7 +52,7 @@
         1. Ensamblador: Utilizado en el desarrollo de Sistemas Operativos, controladores de dispositivos y en aplicaciones que requieren un control preciso sobre el hardware.
         2. C y C++: Ampliamente utilizados en el desarrollo de sistemas operativos, sistemas embebidos, aplicaciones de tiempo real y en aplicaciones que requieren alta eficiencia y control directo sobre el hardware.
 
-6. **Frameeworks:** Los Frameworks son conjuntos de herramientas, bibliotecas y estándares que proporcionan una estructura para el desarrollo de aplicaciones. Estos, permiten a los desarrolladores crear aplicaciones más rápidamente, al proporcionar soluciones predefinidas para tareas comunes, como la gestión de bases de datos, la autenticación de usuarios y la generación de interfaces de usuario.
+7. **Frameeworks:** Los Frameworks son conjuntos de herramientas, bibliotecas y estándares que proporcionan una estructura para el desarrollo de aplicaciones. Estos, permiten a los desarrolladores crear aplicaciones más rápidamente, al proporcionar soluciones predefinidas para tareas comunes, como la gestión de bases de datos, la autenticación de usuarios y la generación de interfaces de usuario.
 
     1. Angular: (JavaScript/TypeScrip): Framework de Google para construir aplicaciones web SPA (Sigle Page Application) o aplicaciones de una sola página, con JavaScript o TypeScript.
 
@@ -66,19 +66,52 @@
 
     6. Sprit Framework(Java): Framework de aplicación empresarial para el desarrollo de aplicaciones Java, conocido por su modularidad y amplia gama de funcionalidades.
 
-7. **Editores de texto:** Herramientas básicas para escribir y editar código fuente.
+8. **Editores de texto:** Herramientas básicas para escribir y editar código fuente.
 
     1. Sublime text: 
     2. Atom:
     3. Visual Studio Code: Desarrollado por Microsoft, VSC es uno de los editores de texto más populares debido a su robusta funcionalidad, amplia gama de estensiones y soporte para múltiples lenguajes de programación.
 
-8. **IDE:** Aplicación que proporciona un conjunto completo de herramientas para desarrollo de software en un solo paquete integrado. Estas herramientas incluyen editores de texto, compiladores, depuradores, administradores de proyectos y más.
-
+9. **IDE:** Aplicación que proporciona un conjunto completo de herramientas para desarrollo de software en un solo paquete integrado. Estas herramientas incluyen editores de texto, compiladores, depuradores, administradores de proyectos y más.
+    
     1. Eclipse:
     2. NetBeans:
     3. IntelliJ IDEA: Es conocido por su exelente soporte para el desarrollo de aplicaciones Java, así como su integración con tecnologías como Spring Framework y Android.
 
-9. **Escritorios remotos:** 
+10. **Escritorios remotos:**  Un escritorio remoto es una tecnología que permite a un usuario acceder y controlar una computadora o dispositivo desde otro lugar, a través de una red como internet.
+
+    1. Ventajas: 
+        1. Acceso remoto: Los usuarios pueden acceder al recurso desde cualquier lugar.
+        2. Flexibilidad:Los usuario pueden usar sus propios dispositivos para acceder al escritorio remoto.
+        3. Centralización y gestión simplificada: Se tienen todas las aplicaciones y la información en el servidor al cual se accede de forma remota.
+        4. Seguridad: Se tienen los datos en el servidor remoto, el cual se encuentra correctamente protegido.
+        5. Ahorro de costos: Se pueden tener clientes livianos para no exagerar en gastos. El procesamiento lo realiza el servidor.
+
+    2. Aplicaciones para escritorio remoto
+
+        1. TeamViewer
+        2. Remote desktop protocol
+        3. VNC(Virtual Network Computer)
+        4. Chrome remoto desktop 
+        5. Anidesk
+
+11. **Máquinas virtuales:** Son entornos de software que simulan un sistema informático completo, incluyendo hardware, sistema operativo y aplicaciones dentro de un entorno aislado y autónomo.
+
+    1. Importancia en el desarrollo y despliegue de software
+
+        1. Ambientes aislados:
+        2. Portabilidad:
+        3. Optimización de recursos: Recursos compartidos.
+        4. Escalabilidad: Se pueden agregar nuevas máquinas segun la necesidad.
+        5. Respaldo y recuperación: Capacidad de realizar respaldo completo de máquinas virtuales.
+
+    2. Ventajas
+
+        1. Aislamiento y seguridad:
+        2. Flexibilidad:
+        3. Reproducibildiad: Facilitan la reproducción de escenarios de prueba.
+        4. Optimización de recursos:
+        5. Escalabilidad: Las máquinas virtuales pueden escalarse vertical y horizontalmente.
 
 
 
@@ -89,5 +122,6 @@
 
 
 
-
+         
+    
 
